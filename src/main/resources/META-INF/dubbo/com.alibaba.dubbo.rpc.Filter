@@ -1,0 +1,2 @@
+braveProviderFilter=brave.dubbo.DubboProviderFilter
+braveConsumerFilter=brave.dubbo.DubboConsumerFilter
